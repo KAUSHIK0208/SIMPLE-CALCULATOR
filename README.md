@@ -10,8 +10,8 @@ Subtraction: Subtract one number from another.
 Multiplication: Multiply two numbers.
 Division: Divide one number by another.
 Technologies Used
-Programming Language: Python (or specify the language used, e.g., JavaScript, Java, C++)
-IDE: Visual Studio Code (or specify the IDE used, if applicable)
+Programming Language: Html , JavaScript, Java, C++
+
 ## Video Demo
 
 Here is a video demonstration of the project:
