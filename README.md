@@ -12,3 +12,12 @@ Division: Divide one number by another.
 Technologies Used
 Programming Language: Python (or specify the language used, e.g., JavaScript, Java, C++)
 IDE: Visual Studio Code (or specify the IDE used, if applicable)
+## Video Demo
+
+Here is a video demonstration of the project:
+
+![Watch the video](https://github.com/KAUSHIK0208/SIMPLE-CALCULATOR/blob/main/calculator.mp4)
+
+
+
+
